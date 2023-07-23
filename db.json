@@ -1,0 +1,194 @@
+{
+    "afghanistan": {
+      "siglaFlag": "af",
+      "tentativas": ["afghanistan", "afeganistão", "af"]
+    },
+    "armenia": {
+      "siglaFlag": "am",
+      "tentativas": ["armenia", "am"]
+    },
+    "azerbaijan": {
+      "siglaFlag": "az",
+      "tentativas": ["azerbaijan", "azerbaijão", "az"]
+    },
+    "bahrain": {
+      "siglaFlag": "bh",
+      "tentativas": ["bahrain", "barein", "bh"]
+    },
+    "bangladesh": {
+      "siglaFlag": "bd",
+      "tentativas": ["bangladesh", "bangladesh", "bd"]
+    },
+    "bhutan": {
+      "siglaFlag": "bt",
+      "tentativas": ["bhutan", "butão", "bt"]
+    },
+    "brunei": {
+      "siglaFlag": "bn",
+      "tentativas": ["brunei", "brunei", "bn"]
+    },
+    "cambodia": {
+      "siglaFlag": "kh",
+      "tentativas": ["cambodia", "camboja", "kh"]
+    },
+    "china": {
+      "siglaFlag": "cn",
+      "tentativas": ["china", "china", "cn"]
+    },
+    "cyprus": {
+      "siglaFlag": "cy",
+      "tentativas": ["cyprus", "chipre", "cy"]
+    },
+    "georgia": {
+      "siglaFlag": "ge",
+      "tentativas": ["georgia", "geórgia", "ge"]
+    },
+    "india": {
+      "siglaFlag": "in",
+      "tentativas": ["india", "índia", "in"]
+    },
+    "indonesia": {
+      "siglaFlag": "id",
+      "tentativas": ["indonesia", "indonésia", "id"]
+    },
+    "iran": {
+      "siglaFlag": "ir",
+      "tentativas": ["iran", "irã", "ir"]
+    },
+    "iraq": {
+      "siglaFlag": "iq",
+      "tentativas": ["iraq", "iraque", "iq"]
+    },
+    "israel": {
+      "siglaFlag": "il",
+      "tentativas": ["israel", "israel", "il"]
+    },
+    "japan": {
+      "siglaFlag": "jp",
+      "tentativas": ["japan", "japão", "jp"]
+    },
+    "jordan": {
+      "siglaFlag": "jo",
+      "tentativas": ["jordan", "jordânia", "jo"]
+    },
+    "kazakhstan": {
+      "siglaFlag": "kz",
+      "tentativas": ["kazakhstan", "cazaquistão", "kz"]
+    },
+    "kuwait": {
+      "siglaFlag": "kw",
+      "tentativas": ["kuwait", "kuwait", "kw"]
+    },
+    "kyrgyzstan": {
+      "siglaFlag": "kg",
+      "tentativas": ["kyrgyzstan", "quirguistão", "kg"]
+    },
+    "laos": {
+      "siglaFlag": "la",
+      "tentativas": ["laos", "laos", "la"]
+    },
+    "lebanon": {
+      "siglaFlag": "lb",
+      "tentativas": ["lebanon", "líbano", "lb"]
+    },
+    "malaysia": {
+      "siglaFlag": "my",
+      "tentativas": ["malaysia", "malásia", "my"]
+    },
+    "maldives": {
+      "siglaFlag": "mv",
+      "tentativas": ["maldives", "maldivas", "mv"]
+    },
+    "mongolia": {
+      "siglaFlag": "mn",
+      "tentativas": ["mongolia", "mongólia", "mn"]
+    },
+    "myanmar": {
+      "siglaFlag": "mm",
+      "tentativas": ["myanmar", "mianmar", "mm"]
+    },
+    "nepal": {
+      "siglaFlag": "np",
+      "tentativas": ["nepal", "nepal", "np"]
+    },
+    "northKorea": {
+      "siglaFlag": "kp",
+      "tentativas": ["north korea", "coreia do norte", "kp"]
+    },
+    "oman": {
+      "siglaFlag": "om",
+      "tentativas": ["oman", "omã", "om"]
+    },
+    "pakistan": {
+      "siglaFlag": "pk",
+      "tentativas": ["pakistan", "paquistão", "pk"]
+    },
+    "palestine": {
+      "siglaFlag": "ps",
+      "tentativas": ["palestine", "palestina", "ps"]
+    },
+    "philippines": {
+      "siglaFlag": "ph",
+      "tentativas": ["philippines", "filipinas", "ph"]
+    },
+    "qatar": {
+      "siglaFlag": "qa",
+      "tentativas": ["qatar", "qatar", "qa"]
+    },
+    "saudiArabia": {
+      "siglaFlag": "sa",
+      "tentativas": ["saudi arabia", "arabia saudita", "sa"]
+    },
+    "singapore": {
+      "siglaFlag": "sg",
+      "tentativas": ["singapore", "singapura", "sg"]
+    },
+    "southKorea": {
+      "siglaFlag": "kr",
+      "tentativas": ["south korea", "coreia do sul", "kr"]
+    },
+    "sriLanka": {
+      "siglaFlag": "lk",
+      "tentativas": ["sri lanka", "sri lanka", "lk"]
+    },
+    "syria": {
+      "siglaFlag": "sy",
+      "tentativas": ["syria", "síria", "sy"]
+    },
+    "taiwan": {
+      "siglaFlag": "tw",
+      "tentativas": ["taiwan", "taiwan", "tw"]
+    },
+    "tajikistan": {
+      "siglaFlag": "tj",
+      "tentativas": ["tajikistan", "tajiquistão", "tj"]
+    },
+    "thailand": {
+      "siglaFlag": "th",
+      "tentativas": ["thailand", "tailândia", "th"]
+    },
+    "timorLeste": {
+      "siglaFlag": "tl",
+      "tentativas": ["timor-leste", "timor leste", "tl"]
+    },
+    "turkmenistan": {
+      "siglaFlag": "tm",
+      "tentativas": ["turkmenistan", "turcomenistão", "tm"]
+    },
+    "unitedArabEmirates": {
+      "siglaFlag": "ae",
+      "tentativas": ["united arab emirates", "emirados árabes unidos", "ae"]
+    },
+    "uzbekistan": {
+      "siglaFlag": "uz",
+      "tentativas": ["uzbekistan", "uzbequistão", "uz"]
+    },
+    "vietnam": {
+      "siglaFlag": "vn",
+      "tentativas": ["vietnam", "vietnã", "vn"]
+    },
+    "yemen": {
+      "siglaFlag": "ye",
+      "tentativas": ["yemen", "iêmen", "ye"]
+    }
+  }
