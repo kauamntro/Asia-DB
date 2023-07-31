@@ -1,4 +1,5 @@
-{
+{  
+  "dados":{
     "afghanistan": {
       "siglaFlag": "af",
       "tentativas": ["afghanistan", "afeganistão", "af"]
@@ -192,3 +193,4 @@
       "tentativas": ["yemen", "iêmen", "ye"]
     }
   }
+}  
